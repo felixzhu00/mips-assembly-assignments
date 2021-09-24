@@ -1,0 +1,424 @@
+{
+  "tests": [
+    {
+      "name": "Test1",
+      "setup": "",
+      "run": "java -jar munit.jar tests/Hw1Test1.class hw1.asm",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 3,
+      "points": null
+    },
+    {
+      "name": "Test2",
+      "setup": "",
+      "run": "java -jar munit.jar tests/Hw1Test2.class hw1.asm",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 3,
+      "points": null
+    },
+    {
+      "name": "Test3",
+      "setup": "",
+      "run": "java -jar munit.jar tests/Hw1Test2.class hw1.asm",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 3,
+      "points": null
+    },
+    {
+      "name": "Test4",
+      "setup": "",
+      "run": "java -jar munit.jar tests/Hw1Test4.class hw1.asm",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 3,
+      "points": null
+    },
+    {
+      "name": "Test5",
+      "setup": "",
+      "run": "java -jar munit.jar tests/Hw1Test5.class hw1.asm",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 3,
+      "points": null
+    },
+    {
+      "name": "Test6",
+      "setup": "",
+      "run": "java -jar munit.jar tests/Hw1Test6.class hw1.asm",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 3,
+      "points": null
+    },
+    {
+      "name": "Test7",
+      "setup": "",
+      "run": "java -jar munit.jar tests/Hw1Test7.class hw1.asm",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 3,
+      "points": null
+    },
+    {
+      "name": "Test8",
+      "setup": "",
+      "run": "java -jar munit.jar tests/Hw1Test8.class hw1.asm",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 3,
+      "points": null
+    },
+    {
+      "name": "Test9",
+      "setup": "",
+      "run": "java -jar munit.jar tests/Hw1Test9.class hw1.asm",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 3,
+      "points": null
+    },
+    {
+      "name": "Test10",
+      "setup": "",
+      "run": "java -jar munit.jar tests/Hw1Test10.class hw1.asm",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 3,
+      "points": null
+    },
+    {
+      "name": "Test11",
+      "setup": "",
+      "run": "java -jar munit.jar tests/Hw1Test11.class hw1.asm",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 11,
+      "points": null
+    },
+    {
+      "name": "Test12",
+      "setup": "",
+      "run": "java -jar munit.jar tests/Hw1Test12.class hw1.asm",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 12,
+      "points": null
+    },
+    {
+      "name": "Test13",
+      "setup": "",
+      "run": "java -jar munit.jar tests/Hw1Test13.class hw1.asm",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 3,
+      "points": null
+    },
+    {
+      "name": "Test14",
+      "setup": "",
+      "run": "java -jar munit.jar tests/Hw1Test14.class hw1.asm",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 3,
+      "points": null
+    },
+    {
+      "name": "Test15",
+      "setup": "",
+      "run": "java -jar munit.jar tests/Hw1Test15.class hw1.asm",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 3,
+      "points": null
+    },
+    {
+      "name": "Test16",
+      "setup": "",
+      "run": "java -jar munit.jar tests/Hw1Test16.class hw1.asm",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 3,
+      "points": null
+    },
+    {
+      "name": "Test17",
+      "setup": "",
+      "run": "java -jar munit.jar tests/Hw1Test17.class hw1.asm",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 3,
+      "points": null
+    },
+    {
+      "name": "Test18",
+      "setup": "",
+      "run": "java -jar munit.jar tests/Hw1Test18.class hw1.asm",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 3,
+      "points": null
+    },
+    {
+      "name": "Test19",
+      "setup": "",
+      "run": "java -jar munit.jar tests/Hw1Test19.class hw1.asm",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 3,
+      "points": null
+    },
+    {
+      "name": "Test20",
+      "setup": "",
+      "run": "java -jar munit.jar tests/Hw1Test20.class hw1.asm",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 3,
+      "points": null
+    },
+    {
+      "name": "Test21",
+      "setup": "",
+      "run": "java -jar munit.jar tests/Hw1Test21.class hw1.asm",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 3,
+      "points": null
+    },
+    {
+      "name": "Test22",
+      "setup": "",
+      "run": "java -jar munit.jar tests/Hw1Test22.class hw1.asm",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 3,
+      "points": null
+    },
+    {
+      "name": "Test23",
+      "setup": "",
+      "run": "java -jar munit.jar tests/Hw1Test23.class hw1.asm",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 3,
+      "points": null
+    },
+    {
+      "name": "Test24",
+      "setup": "",
+      "run": "java -jar munit.jar tests/Hw1Test24.class hw1.asm",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 3,
+      "points": null
+    },
+    {
+      "name": "Test25",
+      "setup": "",
+      "run": "java -jar munit.jar tests/Hw1Test25.class hw1.asm",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 3,
+      "points": null
+    },
+    {
+      "name": "Test26",
+      "setup": "",
+      "run": "java -jar munit.jar tests/Hw1Test26.class hw1.asm",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 3,
+      "points": null
+    },
+    {
+      "name": "Test27",
+      "setup": "",
+      "run": "java -jar munit.jar tests/Hw1Test27.class hw1.asm",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 3,
+      "points": null
+    },
+    {
+      "name": "Test28",
+      "setup": "",
+      "run": "java -jar munit.jar tests/Hw1Test28.class hw1.asm",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 3,
+      "points": null
+    },
+    {
+      "name": "Test29",
+      "setup": "",
+      "run": "java -jar munit.jar tests/Hw1Test29.class hw1.asm",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 3,
+      "points": null
+    },
+    {
+      "name": "Test30",
+      "setup": "",
+      "run": "java -jar munit.jar tests/Hw1Test30.class hw1.asm",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 3,
+      "points": null
+    },
+    {
+      "name": "Test31",
+      "setup": "",
+      "run": "java -jar munit.jar tests/Hw1Test31.class hw1.asm",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 3,
+      "points": null
+    },
+    {
+      "name": "Test32",
+      "setup": "",
+      "run": "java -jar munit.jar tests/Hw1Test32.class hw1.asm",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 3,
+      "points": null
+    },
+    {
+      "name": "Test33",
+      "setup": "",
+      "run": "java -jar munit.jar tests/Hw1Test33.class hw1.asm",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 3,
+      "points": null
+    },
+    {
+      "name": "Test34",
+      "setup": "",
+      "run": "java -jar munit.jar tests/Hw1Test34.class hw1.asm",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 3,
+      "points": null
+    },
+    {
+      "name": "Test35",
+      "setup": "",
+      "run": "java -jar munit.jar tests/Hw1Test35.class hw1.asm",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 3,
+      "points": null
+    },
+    {
+      "name": "Test36",
+      "setup": "",
+      "run": "java -jar munit.jar tests/Hw1Test36.class hw1.asm",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 3,
+      "points": null
+    },
+    {
+      "name": "Test37",
+      "setup": "",
+      "run": "java -jar munit.jar tests/Hw1Test37.class hw1.asm",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 3,
+      "points": null
+    },
+    {
+      "name": "Test38",
+      "setup": "",
+      "run": "java -jar munit.jar tests/Hw1Test38.class hw1.asm",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 3,
+      "points": null
+    },
+    {
+      "name": "Test39",
+      "setup": "",
+      "run": "java -jar munit.jar tests/Hw1Test39.class hw1.asm",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 3,
+      "points": null
+    },
+    {
+      "name": "Test40",
+      "setup": "",
+      "run": "java -jar munit.jar tests/Hw1Test40.class hw1.asm",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 3,
+      "points": null
+    },
+    {
+      "name": "Test41",
+      "setup": "",
+      "run": "java -jar munit.jar tests/Hw1Test41.class hw1.asm",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 3,
+      "points": null
+    },
+    {
+      "name": "Test42",
+      "setup": "",
+      "run": "java -jar munit.jar tests/Hw1Test42.class hw1.asm",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 3,
+      "points": null
+    }
+  ]
+}
