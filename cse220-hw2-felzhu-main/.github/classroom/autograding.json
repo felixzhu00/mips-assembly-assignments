@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "HW2 Test",
+      "setup": "",
+      "run": "java -jar munit.jar tests/Hw2Test.class hw2.asm",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": null
+    }
+  ]
+}
