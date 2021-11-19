@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "HW4Test",
+      "setup": "",
+      "run": "java -jar munit.jar tests/Hw4Test.class hw4.asm",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": null
+    }
+  ]
+}
